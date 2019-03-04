@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="action_submit">Submit</string>
+    <string name="comment_question">Provide comment?</string>
+</resources>
